@@ -1,4 +1,9 @@
-![Screenshot 2024-05-15 204302](https://github.com/TadicharlaChandini/To-Do-List/assets/169427114/b59bdfb8-4215-4ec7-91a2-346fa265bf6e)**Overview**
+![image](https://github.com/TadicharlaChandini/To-Do-List/assets/169427114/d32a9ed2-601b-45f6-9d23-9f4662de4ec3)![Screenshot 2024-05-15 204302](https://github.com/TadicharlaChandini/To-Do-List/assets/169427114/b59bdfb8-4215-4ec7-91a2-346fa265bf6e)
+![Screenshot 2024-05-15 215130](https://github.com/TadicharlaChandini/To-Do-List/assets/169427114/e29cf1f7-c9ec-4974-acdf-4c80890dc5ca)![Screenshot 2024-05-15 215130](https://github.com/TadicharlaChandini/To-Do-List/assets/169427114/772875ac-5a7b-41c5-8386-41befb80a02b)
+
+
+
+**Overview**
 This README provides instructions for setting up and understanding the Todo List page built using HTML and JavaScript. The Todo List page allows users to add, delete, and manage their daily tasks efficiently.
 
 **Features**
